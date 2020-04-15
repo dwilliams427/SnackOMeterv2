@@ -3,6 +3,9 @@ package com.danielwilliams.snackometerv2
 /*
 For implenting the shared preferences, checkout this video: https://www.youtube.com/watch?v=fJEFZ6EOM9o
 It is for java but use the boiler plate code here
+
+Still need:
+    Reset at Midnight every night
  */
 
 
